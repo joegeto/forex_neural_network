@@ -4,13 +4,23 @@ I developed a notebook for creating a neural network based on forex data (EURUSD
 
 ## Full list of technical indicators:
 Welles Wilder's Directional Movement Index 
-\nAroon
-\nCommodity Channel Index
-\nchaikinVolatility 
-\nChande Momentum Oscillator
-\nMACD oscillator
-\nOsMA
-\nRelative Strength Index
-\nStochastic Oscillator
-\nStochastic Momentum Index
-\nVolatility (Yang and Zhang)
+
+Aroon
+
+Commodity Channel Index
+
+chaikinVolatility 
+
+Chande Momentum Oscillator
+
+MACD oscillator
+
+OsMA
+
+Relative Strength Index
+
+Stochastic Oscillator
+
+Stochastic Momentum Index
+
+Volatility (Yang and Zhang)

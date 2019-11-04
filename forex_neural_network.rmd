@@ -391,7 +391,7 @@ lines(bal,  col = 2)
 
 
 
-Estimation <- function(X, Y, r=8/10, m="random",norm="spatialSign",h=c(10),act="tanh",                        LR=0.8,Mom=0.5,out="sigm",sae="linear",Ep=10,Bs=50,CM=F){
+Estimation <- function(X, Y, r=8/10, m="random",norm="spatialSign",h=c(10),act="tanh", LR=0.8,Mom=0.5,out="sigm",sae="linear",Ep=10,Bs=50,CM=F){
   
     #Indices of the training and test data set
     t <- holdout(Y, ratio=r, mode=m)
